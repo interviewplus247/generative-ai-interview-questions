@@ -1,5 +1,9 @@
 # Generative AI Interview Questions & Answers
 
+<p align="center">
+  <img src="images/image1.png" alt="Generative AI Interview Questions & Answers">
+</p>
+
 > A curated list of Generative AI interview questions covering Knowledge Bases, RAG, Embeddings, Vector Databases, Semantic Search, Python, SQL, and Enterprise Data Handling — from basic to advanced, plus real-world scenario-based questions.
 
 ---
